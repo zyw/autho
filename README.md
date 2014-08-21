@@ -1,5 +1,8 @@
 蓝缘权限系统的Maven版本，研究权限系统。
-lanyuan
+
+原项目地址 https://github.com/lanyuancom/lanyuan
+
+lanyuan(蓝缘)
 =======
 
 开放源码,基于springMVC+springSecurity3.x+Mybaits3.x的权限系统,,支持开源
